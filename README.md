@@ -10,6 +10,7 @@ npx create-npm-packages --template husehic/cnp-template-javascript --github-user
 
 ## Features
 
+- [Commitlint](https://github.com/conventional-changelog/commitlint)
 - [Changesets](https://github.com/changesets/changesets)
 - [Issue Templates](https://github.com/hsuehic/typescript-npm-package-template/tree/main/.github/ISSUE_TEMPLATE)
 - [GitHub Actions](https://github.com/hsuehic/typescript-npm-package-template/tree/main/.github/workflows)
